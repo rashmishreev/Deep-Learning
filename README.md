@@ -16,5 +16,6 @@ Assignment 2 involves the implementation of a CNN for the Fashion Mnist dataset,
 
 <img align="left" width="250" height="150" src="https://github.com/rashmishreev/DeepLearningQuestRepo/blob/main/Images/VAE_Basic.png"> **[Variational Autoencoder for Fashion MNIST and Sentiment Analysis on IMDB](https://github.com/rashmishreev/DeepLearningQuestRepo/tree/main/Deep%20Learning%20Course%20Assignments/Variational%20Autoencoder%20for%20Fashion%20MNIST%20and%20Sentiment%20Analysis%20on%20IMDB)**
 
-#
+Implementing a Variational Autoencoder for Fashion MNIST, visualize latent space clustering, and conduct sentiment analysis on IMDB Movie Reviews using TF-IDF + GaussianNB, Word2Vec + GaussianNB, and Glove + GaussianNB models. Compare their performances and apply Byte Pair Encoding (BPE) to varying percentages (5%, 10%, 15%, 20%) of the IMDB training dataset, comparing token counts.
 
+#
