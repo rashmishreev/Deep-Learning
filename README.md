@@ -10,7 +10,7 @@ Develop Artificial Neural Networks (ANN) for Binary and Multi-Class Classificati
 #
 <img align="left" width="250" height="150" src="https://github.com/rashmishreev/DeepLearningQuestRepo/blob/main/Images/fashion-mnist.webp"> **[CNN and ResNet Model Implementation and Evaluation](https://github.com/rashmishreev/DeepLearningQuestRepo/tree/main/Deep%20Learning%20Course%20Assignments/CNN%20and%20ResNet%20Model%20Implementation%20and%20Evaluation)**
 
-Assignment 2 involves the implementation of a CNN for the Fashion Mnist dataset, encompassing 5 layers, Batch Normalization, and MaxPooling. The process includes the application of 5-fold cross-validation and Grid Search for hyperparameter tuning. The assignment explores techniques such as data augmentation and transfer learning using VGG-19. Additionally, a ResNet model is developed. The overarching objective is to employ a diverse set of deep learning methodologies on the Fashion Mnist Dataset, covering CNNs, hyperparameter tuning, data augmentation, transfer learning, and ResNet architectures.
+Assignment 2 implements a CNN for Fashion Mnist with 5 layers, Batch Normalization, and MaxPooling, applying 5-fold cross-validation and Grid Search for hyperparameter tuning. It explores data augmentation, and transfer learning with VGG-19, and develops a ResNet model. The goal is to employ various deep learning methods on the Fashion Mnist Dataset, covering CNNs, hyperparameter tuning, data augmentation, transfer learning, and ResNet architectures.
 
 #
 
