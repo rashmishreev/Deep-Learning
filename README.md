@@ -1,5 +1,5 @@
-# DeepLearningQuestRepo
-Explore my Master's Deep Learning Assignments – a repository capturing my hands-on experience and growth in neural networks and AI throughout the course.
+# Master's in Data Analytics: Deep Learning Course Assignments Repository
+This repository houses my assignments completed during the Deep Learning course as part of my Master's in Data Analytics program. Explore diverse projects showcasing hands-on applications of advanced neural networks and machine learning techniques.
 
 ## Assignments
 
