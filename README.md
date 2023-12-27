@@ -19,6 +19,6 @@ Assignment 2 implements a CNN for Fashion Mnist with 5 layers, Batch Normalizati
 Implementing a Variational Autoencoder for Fashion MNIST, visualize latent space clustering, and conduct sentiment analysis on IMDB Movie Reviews using TF-IDF + GaussianNB, Word2Vec + GaussianNB, and Glove + GaussianNB models. Compare their performances and apply Byte Pair Encoding (BPE) to varying percentages (5%, 10%, 15%, 20%) of the IMDB training dataset, comparing token counts.
 
 #
-<img align="left" width="250" height="150" src="https://github.com/rashmishreev/DeepLearningQuestRepo/blob/main/Images/imdb.jpeg"> **[Sentiment Analysis and Text Generation with Embeddings]()**
+<img align="left" width="250" height="150" src="https://github.com/rashmishreev/DeepLearningQuestRepo/blob/main/Images/imdb.jpeg"> **[Sentiment Analysis and Text Generation with Embeddings](https://github.com/rashmishreev/DeepLearningQuestRepo/tree/main/Deep%20Learning%20Course%20Assignments/Sentiment%20Analysis%20and%20Text%20Generation%20with%20Embeddings)**
 
 Conducting sentiment analysis on the IMDB Movie Review dataset involves exploring different embeddings and sequential models. The Keras embedding layer is used for sentiment analysis, and cosine similarity is applied to identify words similar to "movie." In addition, text generation is executed on the Moby Dick Chapter Four dataset, aiming for a minimum accuracy of 20% with Keras word embeddings. Transfer learning is implemented using Word2Vec embeddings to ensure diverse output.
